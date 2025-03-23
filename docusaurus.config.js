@@ -13,15 +13,15 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.nulix.hr",
+  url: "https://docs.nulix.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "mtudan", // Usually your GitHub org/user name.
-  projectName: "nulix-docs", // Usually your repo name.
+  organizationName: "nulix", // Usually your GitHub org/user name.
+  projectName: "docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -110,7 +110,7 @@ const config = {
           alt: "NULIX",
           src: "img/logo-dark.png",
           srcDark: "img/logo-light.png",
-          href: "https://nulix.hr",
+          href: "https://nulix.io",
           width: 150,
         },
         style: "light",
